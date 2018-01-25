@@ -1,0 +1,14 @@
+### Variables ###
+values that can be changed.
+
+### Strings ###
+sequence of characters, usually within quotation marks.
+
+### Functions ###
+tells the return type of data it will return. manipulates data in a defined way; implemented for reusability.
+
+### 'if' Statements ###
+if this, then that. conditional statement using boolean logic.
+
+### Boolean values ###
+true or false
