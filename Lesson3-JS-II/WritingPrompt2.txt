@@ -1,0 +1,10 @@
+### 'for' Loops ###
+loop that iterates until its conditions are no longer met
+
+### Logical Operators ###
+&& : 'and'; returns true if both expressions are true; otherwise returns false
+|| : 'or'; returns true if either expression is true
+! : 'not'; returns false if its expression can be converted to true; otherwise returns true
+
+### Arrays ###
+way to organize values, which represent data, in a matrix format
