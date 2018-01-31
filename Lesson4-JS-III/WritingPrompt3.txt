@@ -1,0 +1,15 @@
+### Objects ###
+Everything is an object in JS. Arrays, Strings, functions, etc.
+
+### Properties ###
+key:value pairs belonging to objects
+
+### Methods ###
+Methods are functions saved on an object. In objects, one may set values to functions. Set key -> name, set value -> function.
+
+### for..in Loop ###
+Loop that allows iteration over multiple key:value pairs in an object, until the value associated with the key is accessed.
+
+### Dot vs Bracket Notation ###
+Use bracket notation with a string
+Use dot notation with a direct name
