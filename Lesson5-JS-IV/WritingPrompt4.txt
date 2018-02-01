@@ -1,0 +1,11 @@
+Callback Functions:
+Functions can be passed around like objects. A callback function is the passing of functions as arguments to other functions.
+
+`arguments`:
+keyword that can be implemented to pass all arguments when one passes to a function
+
+`prototype`:
+Every class has a `prototype` property. When setting methods on `prototype`, all objects declared will have access to those methods.
+
+Constructors:
+ allow objects to be organized in a way that allows them to share properties and methods. More efficient than having to keep calling multiple objects for the properties/methods they contain.
